@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  lifeslash
 show_downloads: false
-google_analytics: false # trueにすること
+google_analytics: false
 labo_link: true
 
 # Build settings
